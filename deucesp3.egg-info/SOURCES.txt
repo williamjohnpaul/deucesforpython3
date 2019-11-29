@@ -1,0 +1,10 @@
+setup.py
+deucesp3/__init__.py
+deucesp3/card.py
+deucesp3/deck.py
+deucesp3/evaluator.py
+deucesp3/lookup.py
+deucesp3.egg-info/PKG-INFO
+deucesp3.egg-info/SOURCES.txt
+deucesp3.egg-info/dependency_links.txt
+deucesp3.egg-info/top_level.txt

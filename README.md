@@ -1,3 +1,15 @@
+11/29/2019 -
+       deuces3 is an minmal update to deuces (available elsehwere on github) such that it can run under python 3.
+	   The nature of the changes is at the level of adding () for the print function and casting iterators as lists where that worked better for the code.
+
+	   No attempt was made beyond that to more generally take advantage of python 3 or to otherwise try to "improve" the code.
+
+	   I'm purely interested in playing with what appears to be an already well writted library for evaluating poker hands and just want to work in python 3.
+
+	   Testing has been minimal, but if I find I've broken something in further use that applys, I'll port that back.
+
+	   I did not look extensively to see if someone else had already done this as this was partly a learning exercise for me.
+
 Deuces
 ========
 
